@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <description/>
+        <id>x_1966159_capgem_0.VMahamadhBashaGithub</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>VMahamadhBashaGithub</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-22 04:09:03</sys_created_on>
+        <sys_id>8554a6804734931070beb4b4116d4388</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1966159_capgem_0.VMahamadhBashaGithub</sys_name>
+        <sys_package display_value="Capgemini-hacknow_fsnoc" source="x_1966159_capgem_0">61146e404734931070beb4b4116d43fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Capgemini-hacknow_fsnoc">61146e404734931070beb4b4116d43fd</sys_scope>
+        <sys_update_name>sys_alias_8554a6804734931070beb4b4116d4388</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-22 04:09:03</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_translated_text action="delete_multiple" query="documentkey=8554a6804734931070beb4b4116d4388"/>
+</record_update>
